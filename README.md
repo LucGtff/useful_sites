@@ -9,3 +9,8 @@ https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
 https://www.paperswithcode.com/datasets?v=th
 
 https://github.com/awesomedata/awesome-public-datasets
+
+# visualization tool
+
+https://www.onlinelogomaker.com/
+
